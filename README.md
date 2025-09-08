@@ -1,6 +1,6 @@
 # javaProject1
 ## Project Overview
-**StampIt** is a high-performance desktop application engineered for efficient PDF management, with a core focus on secure and customizable PDF stamping. Developed using Java and the **Apache NetBeans IDE**, StampIt empowers users to brand and protect their digital documents with unparalleled ease and speed.
+**DocImprint ** is a high-performance desktop application engineered for efficient PDF management, with a core focus on secure and customizable PDF stamping. Developed using Java and the **Apache NetBeans IDE**, StampIt empowers users to brand and protect their digital documents with unparalleled ease and speed.
 
 
 ## Features
